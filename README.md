@@ -1,3 +1,5 @@
+# Connect 4
+
 Tools
 - Python
 - pygame
